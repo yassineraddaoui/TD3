@@ -33,16 +33,16 @@
 <img src="img/ex5.PNG">
 
 
-<h2>EXERCICE 1</h2>
+<h2>EXERCICE 6+7</h2>
 <h3>Code</h3>
-<img src="img/EXERCICE 1 TD 3.png">
+<img src="img/EXERCICE 6+7 TD 3.png">
 <h3> Execution</h3>
-<img src="img/ex1.PNG">
+<img src="img/ex6.PNG">
 
 
 <h2>EXERCICE 1</h2>
 <h3>Code</h3>
-<img src="img/EXERCICE 1 TD 3.png">
+<img src="img/EXERCICE 8 TD 3.png">
 <h3> Execution</h3>
-<img src="img/ex1.PNG">
+<img src="img/ex7.PNG">
 

@@ -45,4 +45,3 @@
 <img src="img/EXERCICE 8 TD 3.png">
 <h3> Execution</h3>
 <img src="img/ex8.PNG">
-

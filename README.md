@@ -3,4 +3,4 @@
 <h3>Code</h3>
 <img src="img/EXERCICE 1 TD 3.PNG"> 
 <h3> Execution</h3>
-<img src="img/ex1.PNG>
+<img src="img/ex1.PNG">
